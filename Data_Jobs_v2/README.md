@@ -1,4 +1,4 @@
-# Data Jobs Dashboard 2.0 w/ Power BI
+# Data Jobs Dashboard 2.0 with Power BI
 
 ## Introduction
 
